@@ -6,7 +6,7 @@ Download the tar file that matches your Operating System Specifications/Architec
 
 1. Untar the downloaded tar file: `tar xzvf <PATH-TO-TAR-FILE>`
 
-2. Move autobox directory into your executable path: `sudo cp <DIRECTOR>/* /usr/local/bin`
+2. Move autobox directory into your executable path: `sudo cp <DIRECTORY>/* /usr/local/bin`
 
 3. Verify that the installation is valid: `autobox`
 
