@@ -23,4 +23,4 @@ To do this follow the steps:
 * You should now have the System Properties window open. Click on the Environment Variables Button.
 * Under System Variables, select path and edit.
 * Add an entry with the absolute path to the folder that resulted from the unzipped file.
-* Restart powershell. Now you should be able to run autobox.
+* Restart powershell/command prompt. Now you should be able to run autobox.
